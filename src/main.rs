@@ -16,8 +16,8 @@ fn main() {
     let branche_choisie = branches_communes[selection];
 
     let projets = vec![
-        "/Users/charlespoullain/Code/rust/gestion_projets_php/projects/project1",
-        "/Users/charlespoullain/Code/rust/gestion_projets_php/projects/project2",
+        "/Users/charlespoullain/Code/rust/projects/projects/project1",
+        "/Users/charlespoullain/Code/rust/projects/projects/project2",
     ];
 
     let multi_progress = Arc::new(MultiProgress::new());
